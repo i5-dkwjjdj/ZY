@@ -186,7 +186,7 @@
 
 (function() {
     var KEY = 'keepaliveAudioEnabled';
-    var SRC = 'https://cdn.jsdelivr.net/gh/quietvoid/silent-audio/silent-10min.m4a';
+    var SRC = 'https://cdn.jsdelivr.net/gh/anars/blank-audio@master/10-minutes-of-silence.mp3';
     var _audio = null;
     var _unlockBound = false;
 
